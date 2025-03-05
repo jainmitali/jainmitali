@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jainmitali
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on opensource
+- 👀 I’m interested in UI/UX design
+- 🌱 I’m currently learning Figma
+- 💞️ I’m looking to Learn and enhance my skills
 <!-- - 📫 How to reach me ...-->
 
 <!---
